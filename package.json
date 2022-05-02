@@ -1,0 +1,27 @@
+{
+  "name": "tryagain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgil0911/tryagain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielgil0911/tryagain/issues"
+  },
+  "homepage": "https://github.com/danielgil0911/tryagain#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "multer": "^1.4.4",
+    "pg": "^8.7.3"
+  }
+}
